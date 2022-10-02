@@ -1,0 +1,4 @@
+/mnt
+/logs
+.env
+/dags/__pycache__
